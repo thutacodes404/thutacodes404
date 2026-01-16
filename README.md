@@ -1,7 +1,6 @@
 <h3 align="center">I'm a 21-year-old Computer Science student with a passion for Artificial Intelligence and Data Science.Currently in my 4th year of studies, I'm constantly exploring new technologies and methodologies to solve complex problems.</h3>
 
-- 🔭 I’m currently working on : **Machine Learning and Artificial Intelligence**
-
+-
 - 🌱 I’m currently learning : **Machine Learning**
 
 - 📫 How to reach me : **kyawthutaoo2004@icloud.com**
