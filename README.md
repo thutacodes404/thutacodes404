@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Kyaw Thuta 👋</h1>
+<h1 align="center">Hey, I'm Kyaw Thuta OO👋</h1>
 
-<h3 align="center">21-year-old CS student | AI & Data Science enthusiast | Currently in my 4th year</h3>
+<h3 align="center">22-year-old CS student | AI & Data Science enthusiast | Final Year, Semester 1</h3>
 
 <p align="center">
   I'm passionate about building things with data — from cleaning messy datasets to training models that actually work. Still learning, always building.
@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final year Computer Science student
+- 🎓 Final Year, Semester 1 — Computer Science
 - 🤖 Passionate about **Artificial Intelligence** and **Data Science**
-- 🌱 Currently learning: **Machine Learning and Data Science**
+- 🌱 Currently learning: **Machine Learning**
 - 🏠 Just finished my first ML project — a Bangalore house price predictor with a full web interface
-- 📫 Reach me at: **kyawthutaoo2004@icloud.com**
+- 📫 Reach me at: **kyawthutaoo2004@gmail.com**
 
 ---
 
@@ -44,12 +44,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 My Coding Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thutacodes404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thutacodes404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thutacodes404&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thutacodes404&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
