@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kyaw Thuta 👋</h1>
+<h1 align="center">Hey, I'm Kyaw Thuta Oo👋</h1>
 
 <h3 align="center">22-year-old CS student | AI & Data Science enthusiast | Final Year, Semester 1</h3>
 
