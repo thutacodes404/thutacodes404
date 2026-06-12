@@ -10,9 +10,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 4th year Computer Science student
+- 🎓 Final year Computer Science student
 - 🤖 Passionate about **Artificial Intelligence** and **Data Science**
-- 🌱 Currently learning: **Machine Learning**
+- 🌱 Currently learning: **Machine Learning and Data Science**
 - 🏠 Just finished my first ML project — a Bangalore house price predictor with a full web interface
 - 📫 Reach me at: **kyawthutaoo2004@icloud.com**
 
