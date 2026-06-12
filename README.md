@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kyaw Thuta OO👋</h1>
+<h1 align="center">Hey, I'm Kyaw Thuta 👋</h1>
 
 <h3 align="center">22-year-old CS student | AI & Data Science enthusiast | Final Year, Semester 1</h3>
 
@@ -39,6 +39,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [Kidney Stone Analyzer](https://github.com/thutacodes404/Kidney-Stone-Analyzer) | Full-stack app that uses a YOLO model to detect and classify kidney stones from medical scans | Python, YOLO, TypeScript, Next.js |
+| [Lettuce Disease Classifier](https://github.com/thutacodes404/Lettuce-Disease-Classifier) | Image classification model that identifies diseases in lettuce plants — trained and exported as ONNX | Python, PyTorch, ONNX |
 | [Bangalore House Price Prediction](https://github.com/thutacodes404/BangloreHousePricePredictionProject) | ML model + Flask API + web frontend to predict house prices | Python, scikit-learn, Flask, JS |
 | [PrimeMacs](https://github.com/kirathuta/PrimeMacs-apple-product-reseller-website-) | Apple product reseller storefront | Laravel, Blade, Tailwind, MySQL |
 
